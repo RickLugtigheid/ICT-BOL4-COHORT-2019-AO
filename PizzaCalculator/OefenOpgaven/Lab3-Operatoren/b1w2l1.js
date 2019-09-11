@@ -16,4 +16,3 @@ var berekeningOp3 = prompt("Welk getal moet de bassis zijn voor de berekening va
 var deSom2 = (((berekeningOp3 + 6) * 10) / 5) - 12;
 
 document.write("(((" + berekeningOp3 + " + 6 ) * 10 ) / 5) - 12" + " = "+ deSom2 + "<br />");
-
